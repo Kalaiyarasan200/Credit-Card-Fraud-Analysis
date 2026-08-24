@@ -1,0 +1,3 @@
+transaction_location,total_transactions,fraud_transactions,fraud_rate,total_amount
+Domestic,9022,69,0.76,1585286.64
+Foreign,978,82,8.38,174211.85

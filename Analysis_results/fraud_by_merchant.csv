@@ -1,0 +1,6 @@
+merchant_category,total_transactions,fraud_transactions,fraud_rate,total_transaction_amount,fraud_amount
+Grocery,1944,39,2.01,343552.61,8684.52
+Food,2093,35,1.67,363830.85,7534.58
+Travel,1990,29,1.46,347823.85,6684.52
+Electronics,1923,24,1.25,343459.45,5855.07
+Clothing,2050,24,1.17,360831.73,3884.94

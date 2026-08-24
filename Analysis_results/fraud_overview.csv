@@ -1,0 +1,2 @@
+total_transactions,total_transaction_amount,fraud_transactions,fraud_amount,fraud_rate_percentage,average_transaction_amount
+10000,1759498.49,151,32643.63,1.51,175.95

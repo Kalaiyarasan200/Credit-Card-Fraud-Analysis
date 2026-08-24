@@ -1,0 +1,6 @@
+age_group,total_transactions,fraud_transactions,fraud_rate,average_transaction_amount
+18-25,1536,20,1.30,171.01
+26-35,1937,31,1.60,176.68
+36-45,1915,35,1.83,172.14
+46-55,1943,27,1.39,179.88
+56+,2669,38,1.42,178.14

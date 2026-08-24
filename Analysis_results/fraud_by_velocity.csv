@@ -1,0 +1,4 @@
+velocity_category,total_transactions,fraud_transactions,fraud_rate
+"Low Velocity",8519,84,0.99
+"Medium Velocity",1472,67,4.55
+"High Velocity",9,0,0.00

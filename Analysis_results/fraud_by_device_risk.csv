@@ -1,0 +1,4 @@
+device_risk_category,total_transactions,fraud_transactions,fraud_rate,average_amount
+"High Risk",1955,122,6.24,173.3
+"Medium Risk",4116,17,0.41,177.5
+"Low Risk",3929,12,0.31,175.65

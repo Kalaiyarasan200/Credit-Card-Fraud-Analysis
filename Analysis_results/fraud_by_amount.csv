@@ -1,0 +1,5 @@
+amount_category,total_transactions,fraud_transactions,fraud_rate,total_amount,average_amount
+Low,2472,43,1.74,58790.1,23.78
+Medium,4341,54,1.24,497590.4,114.63
+High,2576,38,1.48,796908.95,309.36
+"Very High",611,16,2.62,406209.04,664.83
