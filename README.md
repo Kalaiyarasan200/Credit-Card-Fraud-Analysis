@@ -123,7 +123,8 @@ The project uses a 10,000-row Credit Card Fraud Detection dataset containing tra
 ## Dashboard Preview
 
 ### Fraud Overview
-<img width="1600" height="794" alt="Fraud Overview" src="https://github.com/user-attachments/assets/5456e9a3-2372-46e1-8686-feb5187bd91e" />
+<img width="796" height="397" alt="Fraud Overview" src="https://github.com/user-attachments/assets/d0a6cb3e-d927-404a-a406-0a7f67330184" />
+
 
 
 ### Fraud Risk Analysis
