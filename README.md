@@ -50,11 +50,15 @@ Interactive Dashboards
 
 🛠️ Tools & Technologies
 
-1.MySQL - Data cleaning, transformation and analysis
-3.SQL - EDA, aggregation and feature engineering
-3.Tableau Public - Interactive visualization and dashboards
-4.Microsoft Excel - CSV	Data storage and exchange
-5.GitHub - Project documentation and version control
+1.MySQL - Data cleaning, transformation and analysis.
+
+2.SQL - EDA, aggregation and feature engineering.
+
+3.Tableau Public - Interactive visualization and dashboards.
+
+4.Microsoft Excel - CSV	Data storage and exchange.
+
+5.GitHub - Project documentation and version control.
 
 📂 Dataset
 
